@@ -1,0 +1,41 @@
+*{
+    margin: 20px;
+}
+html{
+    background-color: grey;
+}
+.b1{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+}
+.b2{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+
+}
+.b3 {
+    height: 200px;
+    width: 200px;
+    background-color: white;
+}
+.b4{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+}
+nav{
+    height: 80px;
+    width: 100%;
+    background-color:white ;
+    border-bottom: black;
+    box-shadow: 8px;
+
+
+}
+footer{
+    height: 80px;
+    width: 100%;
+    background-color: white;
+}
